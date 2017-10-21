@@ -1,8 +1,10 @@
 # JTS 2017-10-21
-# This attempts to open up the deeply-burried Voice Customization UI within System Preferences
+# This attempts to open up the deeply-buried Voice Customization UI within System Preferences
 # It works on macOS 10.13 and likely a few versions before this.
 # This is a flimsy approach since it shouldn't likely work with systems running with non-English localizations
 # This little diddy took me a long time to figure out since I don't really get how AppleScript works
+#
+# View this code on github: https://github.com/docdawning/conductMacOSUserToVoiceCustomizationSystemPreferencesUI
 
 tell application "System Preferences"
     activate
