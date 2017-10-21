@@ -15,3 +15,16 @@ This is a freebie I've hacked-together by googling extensively. I'm bundling it 
 <BR /><BR />
 Check out <a href="https://itunes.apple.com/ca/app/trash-talker/id1207969253?mt=12">Trash Talker here</a>.
 </p>
+
+<H1>Props</H1>
+<p>
+There were various little posts around the web that gave me enough clues to get this going. Here are some of the few helpful ones I still have open
+as of when I got this going:
+
+<UL>
+	<LI><a href="http://macscripter.net/viewtopic.php?id=44511">http://macscripter.net/viewtopic.php?id=44511</a></LI>
+	<LI><a href="http://macscripter.net/viewtopic.php?id=44511">http://macscripter.net/viewtopic.php?id=44511</a></LI>
+	<LI><a href="https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan">https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan</a></LI>
+	<LI><a href="https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan">https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan</a></LI>
+</UL>
+</p>
