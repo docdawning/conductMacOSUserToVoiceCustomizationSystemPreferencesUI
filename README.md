@@ -23,8 +23,6 @@ as of when I got this going:
 
 <UL>
 	<LI><a href="http://macscripter.net/viewtopic.php?id=44511">http://macscripter.net/viewtopic.php?id=44511</a></LI>
-	<LI><a href="http://macscripter.net/viewtopic.php?id=44511">http://macscripter.net/viewtopic.php?id=44511</a></LI>
-	<LI><a href="https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan">https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan</a></LI>
 	<LI><a href="https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan">https://apple.stackexchange.com/questions/209352/applescript-cant-get-tab-group-1-of-window-el-capitan</a></LI>
 </UL>
 </p>
