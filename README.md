@@ -8,7 +8,7 @@ seems to work fine, at least on macOS 10.13 with English localizations in-play.
 
 <H1>Demo</H1>
 <p>
-<img src="demo/demo.gif" width="95%"/>
+<img src="demo/demo.gif" width="100%"/>
 </p>
 
 
