@@ -14,7 +14,7 @@ seems to work fine, at least on macOS 10.13 with English localizations in-play.
 
 <H1>Trash Talker</H1>
 <p>
-This is a freebie I've hacked-together by googling extensively. I'm bundling it within my TrashTalker app as that was my motivation. However, this script never made it in the a release of Trash Talker because I distribute it via the App Store and for the script to work my app required Entitlements that Apple told me they would never approve. I had the script hard-coded in to Objective-C and called it from a method. Anyway, here it shall live for others to possibly enjoy.
+This is a freebie I've hacked-together by googling extensively. I intended on bundling it within my TrashTalker app to help users. However, this script never made it in the a release of Trash Talker because I distribute it via the App Store and for the script to work my app required Entitlements that Apple told me they would never approve. I had the script hard-coded in to Objective-C and called it from a method. Anyway, here it shall live for others to possibly enjoy.
 <BR /><BR />
 Feel free to check out <a href="https://itunes.apple.com/ca/app/trash-talker/id1207969253?mt=12">Trash Talker here</a>.
 </p>
